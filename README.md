@@ -4,3 +4,4 @@ FOR TESTING
 2)[If you adopted the "Follow the Left Wall" algorithm, you will complete Level 10. 
 What is the JavaScript code you got? ](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
 3)[If you adopted the "Follow the Right Wall" algorithm, you will complete Level 10.]( https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
+4)[Write a program that greets the user by printing the word "Hello", a comma, the name of the user and an exclamation mark after it. See the examples below.(https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
