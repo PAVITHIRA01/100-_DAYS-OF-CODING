@@ -17,3 +17,4 @@ What is the JavaScript code you got? ](https://github.com/PAVITHIRA01/100-_DAYS-
 14)[Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
 15)[Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
 16)[Given three integers, print the least of them.](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
+17)[JugsMugs for Three and Five](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
