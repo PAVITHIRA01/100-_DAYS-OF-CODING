@@ -14,3 +14,4 @@ What is the JavaScript code you got? ](https://github.com/PAVITHIRA01/100-_DAYS-
 11)[Write a program to calculate the distance between two points.](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
 12)[Given a three-digit number. Find the sum of its digits.](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
 13)[Given an integer, print "odd" if it's odd and print "even" otherwise.](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
+14)[Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
