@@ -13,3 +13,4 @@ What is the JavaScript code you got? ](https://github.com/PAVITHIRA01/100-_DAYS-
 10)[Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
 11)[Write a program to calculate the distance between two points.](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
 12)[Given a three-digit number. Find the sum of its digits.](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
+13)[Given an integer, print "odd" if it's odd and print "even" otherwise.](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
