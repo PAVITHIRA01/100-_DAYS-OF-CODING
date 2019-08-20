@@ -19,3 +19,4 @@ What is the JavaScript code you got? ](https://github.com/PAVITHIRA01/100-_DAYS-
 16)[Given three integers, print the least of them.](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
 17)[JugsMugs for Three and Five](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
 18)[Write a program that receives a number on the input.](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
+19[Digit in Number](https://github.com/PAVITHIRA01/100-_DAYS-OF-CODING/edit/master/README.md)
